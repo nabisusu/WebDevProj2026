@@ -1,5 +1,5 @@
 body {
-    background: rgb(109, 77, 34);
+    background: rgb(28, 36, 109);
 }
 h1{
     margin: 13;
@@ -16,8 +16,10 @@ h1{
 p {
     margin: 3;
     padding: 2;
-    color: rgb(239,240,204);
     font-size: 18px;
     font-weight: bold;
 
+}
+a:link {
+  color: rgb(243, 245, 205); /* Changes all links color */
 }
