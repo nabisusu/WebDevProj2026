@@ -22,7 +22,7 @@ p {
 
 }
 span { 
-    justify-content:center;
+    justify-content:space-around;
     margin: 9;
     padding: 6;
     font-size: 18px;
