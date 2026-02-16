@@ -1,5 +1,6 @@
 <html lang="eng">
 <head>
+    <link rel="styelsheet" href="StartPageCSS.css">
     <title>Start Page</title>
 </head>
 <body>
