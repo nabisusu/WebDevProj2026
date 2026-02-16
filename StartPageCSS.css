@@ -13,10 +13,10 @@ h1{
     justify-content: space-around;
     align-items: flex-start;
 }
-a{
+p {
     margin: 3;
     padding: 2;
-    font-style: rgb(239,240,204);
+    color: rgb(239,240,204);
     font-size: 18px;
     font-weight: bold;
 
