@@ -23,6 +23,7 @@ p {
 }
 span { 
     justify-content:space-around;
+    text-align: center;
     margin: 9;
     padding: 6;
     font-size: 18px;
