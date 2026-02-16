@@ -26,3 +26,9 @@ a:link {
 a:hover {
   color: rgb(255, 113, 47);
 }
+a:visited {
+  color: green;
+}
+a:active {
+  color: lightpink;
+}
