@@ -22,10 +22,11 @@ p {
 
 }
 span { 
-    justify-content: space-around;
+    justify-content:center;
     margin: 9;
     padding: 6;
     border-style: dotted;
+    border-radius: 10%;
     font-size: 18px;
     color: rgb(239, 240, 204);
     font-weight: bold;
