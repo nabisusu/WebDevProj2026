@@ -21,7 +21,9 @@ p {
     font-weight: bold;
 
 }
-
+span { 
+    justify-content: space-around;
+}
 a:link {
   color: rgb(243, 245, 205); /* Changes all links color */
 }
