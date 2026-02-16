@@ -7,3 +7,17 @@ h1{
     text-align: center;
     color: rgb(239, 240, 204);
 }
+.side-by-side-container {
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+p {
+    margin: 3;
+    padding: 2;
+    font-style: rgb(239,240,204);
+    font-size: 18px;
+    font-weight: bold;
+
+}
