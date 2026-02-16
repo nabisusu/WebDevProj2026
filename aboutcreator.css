@@ -23,6 +23,7 @@ p {
 }
 span { 
     justify-content: space-around;
+    margin-top: 9;
 }
 a:link {
   color: rgb(243, 245, 205); /* Changes all links color */
