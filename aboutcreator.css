@@ -24,3 +24,6 @@ p {
 a:link {
   color: rgb(243, 245, 205); /* Changes all links color */
 }
+a:hover {
+  color: greenyellow;
+}
