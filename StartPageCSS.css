@@ -23,13 +23,13 @@ p {
 h2 {
     margin: 13;
     padding: 0%;
-    float: right;
+    text-align: right;
     color: rgb(239, 240, 204);
 }
 span {
     margin: 13;
     padding: 0%;
-    float: right;
+    text-align: right;
     color: rgb(239, 240, 204);
     font-size: 18px;
 }
