@@ -20,19 +20,6 @@ p {
     font-weight: bold;
 
 }
-.post-container{
-    margin: 20px 20px 0 0;  
-    border:5px solid #333;
-}
-
-.post-thumb img {
-    float: left;
-    clear:left;
-}
-
-.post-content {
-    float:right;
-}
 
 a:link {
   color: rgb(243, 245, 205); /* Changes all links color */
