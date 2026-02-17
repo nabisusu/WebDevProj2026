@@ -20,7 +20,12 @@ p {
     font-weight: bold;
 
 }
-
+h2 {
+    margin: 13;
+    padding: 0%;
+    text-align: center;
+    color: rgb(239, 240, 204);
+}
 a:link {
   color: rgb(243, 245, 205); /* Changes all links color */
 }
