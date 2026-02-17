@@ -23,8 +23,15 @@ p {
 h2 {
     margin: 13;
     padding: 0%;
-    text-align: center;
+    float: right;
     color: rgb(239, 240, 204);
+}
+span {
+    margin: 13;
+    padding: 0%;
+    float: right;
+    color: rgb(239, 240, 204);
+    font-size: 18px;
 }
 a:link {
   color: rgb(243, 245, 205); /* Changes all links color */
